@@ -1,0 +1,5 @@
+llama3.2:1b
+gemini-2.5-flash
+gpt-5-nano, gpt-4.5-nano ... mini etc
+phi3:latest
+deepseek-r1:1.5b
